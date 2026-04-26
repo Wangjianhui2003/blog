@@ -1,4 +1,4 @@
-# netlify.toml
+# netlify deploy configuration
 [build]
 command = "pnpm build"
 publish = "build"
