@@ -133,11 +133,11 @@ const config: Config = {
             },
             {
               label: "Note",
-              to: "/note",
+              to: "/note/note1",
             },
             {
               label: "Project",
-              to: "/project",
+              to: "/project/project1",
             },
           ],
         },
