@@ -9,6 +9,8 @@ slug: my-first-blog-deployment-process
 
 使用`Docusaurus`脚手架搭建一个网站。
 
+{/*truncate*/}
+
 ```bash
 pnpm create docusaurus
 ```

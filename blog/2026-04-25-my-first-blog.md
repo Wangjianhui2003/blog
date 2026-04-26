@@ -11,3 +11,4 @@ hide_table_of_contents: false
 
 Recording my thought
 
+{/*truncate*/}
