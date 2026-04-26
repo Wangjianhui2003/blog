@@ -1,0 +1,4 @@
+# netlify.toml
+[build]
+command = "pnpm build"
+publish = "build"
