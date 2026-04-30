@@ -117,7 +117,7 @@ const config: Config = {
                     label: "Project",
                 },
                 {
-                    href: "https://github.com/facebook/docusaurus",
+                    href: "https://github.com/Wangjianhui2003/blog",
                     label: "GitHub",
                     position: "right",
                 },

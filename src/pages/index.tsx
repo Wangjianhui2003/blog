@@ -77,6 +77,6 @@ export default function Home(): ReactNode {
                     </section>
                 </div>
             </main>
-        </Layout>
+        </Layout >
     );
 }
