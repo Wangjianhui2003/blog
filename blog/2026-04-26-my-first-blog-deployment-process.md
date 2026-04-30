@@ -5,15 +5,18 @@ authors: jianhui
 slug: my-first-blog-deployment-process
 ---
 
-## 搭建Blog
 
-使用`Docusaurus`脚手架和Netlify搭建了自己的Blog网站。把大致过程记录了下来
+使用`Docusaurus`脚手架和Netlify搭建了自己的Blog网站，把大致过程记录了下来
 
 {/*truncate*/}
+
+## 使用脚手架
 
 ```bash
 pnpm create docusaurus
 ```
+
+在这个基础上修改
 
 ## 部署
 
@@ -93,7 +96,7 @@ curl -I https://jianhui03.cn/img/logo.png
 
 目前这个Blog网站的样式、工作流都有待提升，目前有几个痛点，后面要改进一下:
 
-写作到发布工作流不通顺，平时写md比较习惯在Obsidian上写，Docusaurus和Obsidian的md语法有些不同，不好预览。Docusaurus
+写作到发布工作流不通顺，平时写md比较习惯在Obsidian上写，Docusaurus和Obsidian的md语法有些不同，不好预览。
 
 内容栏目比较单一，后面想加点好玩的内容进去
 
